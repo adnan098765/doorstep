@@ -1,0 +1,2 @@
+C:/Users/786/Downloads/Doorstep-Company-App-main (1)/Doorstep-Company-App-main/android/app/.cxx/Debug/e5b6ri29/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/786/Downloads/Doorstep-Company-App-main (1)/Doorstep-Company-App-main/android/app/.cxx/Debug/e5b6ri29/arm64-v8a/CMakeFiles/rebuild_cache.dir
